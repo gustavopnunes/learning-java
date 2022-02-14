@@ -1,2 +1,5 @@
 *.class
-todo.txt
+*.txt
+out/
+.idea
+*.iml
