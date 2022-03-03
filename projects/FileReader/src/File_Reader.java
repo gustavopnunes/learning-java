@@ -13,7 +13,7 @@ public class File_Reader {
                         System.out.println(name);
                     }
 
-            } while (name != null);`
+            } while (name != null);
 
         }
         catch(Exception ex) {
